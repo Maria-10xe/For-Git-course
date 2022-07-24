@@ -1,9 +1,9 @@
-# new file
+# Lab 4: optional question
 
 def couple(s, t):
     """Return a list of two-element lists in which the i-th element is [s[i], t[i]].
 
-    >>> a = [1, 2, 3]            
+    >>> a = [1, 2, 3]
     >>> b = [4, 5, 6]
     >>> couple(a, b)
     [[1, 4], [2, 5], [3, 6]]
