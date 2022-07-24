@@ -13,6 +13,6 @@ def couple(s, t):
     [['c', 's'], [6, '1']]
     """
     assert len(s) == len(t)
-    "*** YOUR CODE HERE ***"
+    """ YOUR CODE HERE """
 
     return [[s[i],t[i]] for i in range(len(s))]
